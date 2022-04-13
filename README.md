@@ -17,16 +17,12 @@
 
 - ⚡ Fun fact **I think I am Funny Sometimes**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.to shivamsmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to shivamsmw" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivam-agrawal-889a89181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-agrawal-889a89181" height="30" width="40" /></a>
+<a href="https://codesandbox.com/shivamsmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shivamsmw" height="30" width="40" /></a>
 <a href="https://kaggle.com/shivamsmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shivamsmw" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/shivamsmw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivamsmw/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shivamsmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamsmw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
