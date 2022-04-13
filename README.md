@@ -24,10 +24,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dev.to shivamsmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to shivamsmw" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shiva agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiva agrawal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-agrawal-889a89181?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b9pvzpbqnsjmljcx8cqqqjw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-agrawal-889a89181?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b9pvzpbqnsjmljcx8cqqqjw%3d%3d" height="30" width="40" /></a>
 <a href="https://kaggle.com/shivamsmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shivamsmw" height="30" width="40" /></a>
-<a href="https://fb.com/shivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shivam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivam agarawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivam agarawal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/shivamsmw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivamsmw/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
