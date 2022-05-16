@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shivamsmw.iimt@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BQFPswj4i13EWYckZG48hX92R5jjbvS3/view?usp=sharing](https://drive.google.com/file/d/1BQFPswj4i13EWYckZG48hX92R5jjbvS3/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BQFPswj4i13EWYckZG48hX92R5jjbvS3/view?usp=sharing](https://drive.google.com/file/d/1gHv9IM2C5ejtNCOJqNsiVVvpXkzqHLXO/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny Sometimes**
 
